@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說須摩提菩薩經
+#+DATE: 2015-08-30 20:01:13.875744
+#+PROPERTY: JUAN 0
